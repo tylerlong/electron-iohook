@@ -241,7 +241,7 @@ class IOHook extends EventEmitter {
       // If there is any registered shortcuts then handle them.
       if (
         (event.type === 'keydown' || event.type === 'keyup') &&
-        iohook.shortcuts.length > 0
+        ioHook.shortcuts.length > 0
       ) {
         this._handleShortcut(event);
       }
