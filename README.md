@@ -1,6 +1,6 @@
 # electron-iohook
 
-[iohook](https://github.com/wilix-team/iohook) for Electron, with prebuilt binaries.
+[iohook](https://github.com/wilix-team/iohook) for Electron, with prebuilds.
 
 
 ## Limitations
@@ -27,7 +27,7 @@ ioHook.start();
 ```
 
 
-## How to build the latest prebuilt
+## How to build the latest prebuilds
 
 Git clone official [iohook](https://github.com/wilix-team/iohook).
 
